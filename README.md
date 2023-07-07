@@ -13,7 +13,7 @@ Languages:
 
 #### Complexity
 
-`log(O)`
+`O log(n)`
 
 1.1) If you have a sorted list of 128 names and you are searching for a value in it using the binary search method, what is the maximum number of comparisons that may be required?
 
@@ -45,5 +45,5 @@ Answer: O(n)
 
 #### Complexity
 
-`log(O)`
+`O(n^2)`
 
