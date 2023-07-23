@@ -47,3 +47,8 @@ Answer: O(n)
 
 `O(n^2)`
 
+### #3 - Quick sort
+
+#### Complexity
+
+`O(n*log(n))`
